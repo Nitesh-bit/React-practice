@@ -1,9 +1,10 @@
-import TodoListUseReducer from "./src/TodoListUseReducer";
+import UseReducerBankAccount from "./src/UseReducerBankAccount";
 
 export default function App() {
   return (
     <>
-      <TodoListUseReducer />
+      {/* <TodoListUseReducer /> */}
+      <UseReducerBankAccount />
     </>
   );
 }
